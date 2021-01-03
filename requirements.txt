@@ -1,3 +1,4 @@
 discord
+web3
 Flask
 gunicorn
