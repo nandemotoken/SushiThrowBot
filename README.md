@@ -1,3 +1,3 @@
 # SushiThrowBot
-testful📝 = tasteful🍣
+testful📝 = tasteful🍣  
 $sushi token bot on xdai chain.
